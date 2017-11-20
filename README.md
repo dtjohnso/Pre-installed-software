@@ -2,6 +2,14 @@
 
 I hope you're enjoying your new computer. This page is to help you get acquainted with some of the standard applications that I have installed for you. You can use the links below to bring up the websites for these programs.
 
+## What is your plan for backup?
+
+Now is the time to set this up, rather than after it is already too late. I do not pre-install backup software for you. However, I can recommend the one that I use: [Backblaze](https://secure.backblaze.com/r/01ufyj)
+
+Last time I checked, the Backblaze cost about $50 per computer, per year. That's a fair price to pay for a reliable off-site backup of your data. If you sign up using my link above, we'll both get a couple months free.
+
+It's very easy for you to install this on your own. Once you do, leave your computer turned on for several days to allow it to complete its first backup. In fact, it's generally a good practice to leave your computer on most of the week. 
+
 ## Standard Install
 
 These are the standard applications that I pre-install on all computers I build:
