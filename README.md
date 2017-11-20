@@ -1,16 +1,12 @@
 # Congratulations on your new computer!
 
-I hope you're enjoying your new computer. This page is to help you get acquainted with some of the standard applications that I have installed for you. You can use the links below to bring up the websites for these programs.
+I hope you're enjoying your new computer. Here you'll find a list of apps that I've pre-installed for you and **important next steps you should take to finish setting up your computer.**
 
-## What is your plan for backup?
+## What's Installed?
 
-Now is the time to set this up, rather than after it is already too late. I do not pre-install backup software for you. However, I can recommend the one that I use: [Backblaze](https://secure.backblaze.com/r/01ufyj)
+Here are the standard applications that I have installed for you. You can use the links below to bring up the websites for these programs. Talk to me if you need something else.
 
-Last time I checked, the Backblaze cost about $50 per computer, per year. That's a fair price to pay for a reliable off-site backup of your data. If you sign up using my link above, we'll both get a couple months free.
-
-It's very easy for you to install this on your own. Once you do, leave your computer turned on for several days to allow it to complete its first backup. In fact, it's generally a good practice to leave your computer on most of the week. 
-
-## Standard Install
+### Standard Install
 
 These are the standard applications that I pre-install on all computers I build:
 
@@ -31,7 +27,7 @@ These are the standard applications that I pre-install on all computers I build:
 	* [Teamviewer](https://teamviewer.com/) - Handy for remotely accessing your computer or other computers. Also helpful if you need me to pop in and look at something on your computer (don't worry, I can't access your computer without you telling me the secure code and password on your screen.)
 	* [MalwareBytes](https://www.malwarebytes.com/) - A great supplemental malware removal tool. If you think you've got a malware problem, run a scan in here.
 
-## Personalized apps
+### Personalized apps
 
 While building your computer, I will install other software applications upon request. Some common requests include:
 
@@ -48,4 +44,23 @@ While building your computer, I will install other software applications upon re
 * Other
 	* [Evernote](https://www.evernote.com/)
 
-Talk to me if you need something else.
+
+## What's Next?
+
+There are a few items you'll want to take care of first thing after you set up your computer at home. Here are some instructions.
+
+### Do you have a printer to install?
+
+If you're planning to add a printer, you can install this yourself using the instructions in the printer box. This is usually a straightforward process. I recommend connecting your printer over USB (not wireless) if you're doing this yourself.
+
+### What is your plan for backup?
+
+Now is the time to set this up, rather than after you lose data, which is too late. I do not pre-install backup software for you. However, I can recommend the one that I use: [Backblaze](https://secure.backblaze.com/r/01ufyj)
+
+Last time I checked, the Backblaze cost about $50 per computer, per year. That's a fair price to pay for a reliable off-site backup of your data. If you sign up using my link above, we'll both get a couple months free.
+
+It's very easy for you to install this on your own. Once you do, leave your computer turned on for several days to allow it to complete its first backup. In fact, it's generally a good practice to leave your computer on most of the week. 
+
+## That's It!
+
+You're all set! Enjoy your new computer!
