@@ -57,7 +57,7 @@ If you're planning to add a printer, you can install this yourself using the ins
 
 Now is the time to set this up, rather than after you lose data, which is too late. I do not pre-install backup software for you. However, I can recommend the one that I use: [Backblaze](https://secure.backblaze.com/r/01ufyj)
 
-Last time I checked, the Backblaze cost about $50 per computer, per year. That's a fair price to pay for a reliable off-site backup of your data. If you sign up using my link above, we'll both get a couple months free.
+Last time I checked, Backblaze cost about $50 per computer, per year. That's a fair price to pay for a reliable off-site backup of your data. If you sign up using my link above, we'll both get a couple months free.
 
 It's very easy for you to install this on your own. Once you do, leave your computer turned on for several days to allow it to complete its first backup. In fact, it's generally a good practice to leave your computer on most of the week. 
 
