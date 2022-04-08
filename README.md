@@ -13,12 +13,13 @@ These are the standard applications that I pre-install on all computers I build:
 * Browsers
 	* Firefox
 	* Chrome
+	* Opera
 	* *Why both?* It's good to have a couple handy. Use whichever one you prefer, try the other if something doesn't seem to work.
 * Utilities
+	* Zoom
 	* [VLC](http://videolan.org/) - A fantastic media player app, especially handy for videos. It'll play almost any media you throw at it.
 	* [KeePass](https://keepass.info/) - I've never met anyone who could remember all their passwords. This is a great little free, secure password management tool that I've used for years. Make yourself a little password database, and create entries for all your passwords. You'll have to remember the password to your KeePass file, but after that, it takes care of the rest for you.
 	* [7-Zip](http://www.7zip.org/) - A robust application for working with compressed files (such as \*.ZIP files)
-	* [MalwareBytes](https://www.malwarebytes.com/) - A great supplemental malware removal tool. If you think you've got a malware problem, run a scan in here.
 
 ### Personalized apps
 
@@ -31,12 +32,12 @@ While building your computer, I will install other software applications upon re
 	* [Audacity](http://www.audacityteam.org/) - Useful if you want to record audio files.
 * Communication
 	* Skype
-	* Zoom
 	* [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Email client. Free, open-source, lots of satisfied users.
 * Cloud Storage
 	* [Dropbox](http://dropbox.com/)
 	* [Google Drive](https://drive.google.com/) (now named Google Backup and Sync)
 * Other
+	* [MalwareBytes](https://www.malwarebytes.com/) - A great supplemental malware removal tool. If you think you've got a malware problem, run a scan in here.
 	* [Foxit Reader](https://www.foxitsoftware.com/pdf-reader/) - An alternative PDF reader application.
 	* [ImgBurn](http://www.imgburn.com/) - I use this all the time to burn CDs and DVDs. Works great, very reliable.
 	* [LibreOffice](https://www.libreoffice.org/) - If you did not purchase a Microsoft Office license, this is a capable, free, open-source office suite that should meet the needs of the average home user.
